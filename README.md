@@ -1,4 +1,4 @@
-👋 Olá, sou Victor Macêdo
+ Olá, sou Victor Macêdo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 📊 Focado em Análise de Dados e Business Intelligence  
