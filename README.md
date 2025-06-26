@@ -18,5 +18,4 @@ Busco oportunidades para aplicar meus conhecimentos em projetos reais e estou se
 
 - 📬 Como me encontrar
 
-- [LinkedIn]([https://www.linkedin.com/in/victor-mac%C3%AAdo-96a9ba231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
 - Email: macedov927@gmail.com
