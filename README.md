@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Olá, sou Victor Macêdo
 
-<!--
-**VictorMs12/VictorMS12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+📊 Focado em Análise de Dados e Business Intelligence  
+🐍 Python • 🗃️ SQL • 📈 Power BI  
 
-Here are some ideas to get you started:
+Sou um entusiasta de dados em formação, com interesse em transformar informações em insights.  
+Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, e venho me especializando em ferramentas como **Python**, **SQL** e **Power BI** para análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco oportunidades para aplicar meus conhecimentos em projetos reais e estou sempre aprendendo mais sobre ciência de dados, visualização e automação.
+
+🧰 Ferramentas e Tecnologias
+
+- 🐍 Python (Pandas, Numpy, Matplotlib, Seaborn)
+- 🗃️ SQL (consultas, joins, modelagem de dados)
+- 📊 Power BI (Dashboards interativos, DAX básico)
+- 📄 Excel Avançado
